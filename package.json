@@ -1,0 +1,23 @@
+{
+  "name": "github-blog",
+  "version": "1.0.0",
+  "description": "Github Blog",
+  "dependencies": {
+    "lerna": "^6.1.0"
+  },
+  "scripts": {
+    "start": "lerna run --parallel start",
+    "build": "lerna run --parallel build",
+    "serve": "lerna run --parallel serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Victor19Rodrigues/github-blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Victor19Rodrigues/github-blog/issues"
+  },
+  "homepage": "https://github.com/Victor19Rodrigues/github-blog#readme"
+}
